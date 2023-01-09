@@ -1,3 +1,5 @@
+Link to google doc ( https://docs.google.com/document/d/1ufXISMssgG6uR4WtB5TfNIXlbC2fZndHdGhUn8Ke7i8/edit?usp=sharing ).
+
 Installing Odoo Enterprise
 There are multiple ways to install Odoo, depending on your use case.
 Online
